@@ -6,7 +6,7 @@
 
   <article xml:id="math240-syllabus">
     <title>Fall 2025 Syllabus</title>
-    <subtitle></subtitle>
+    <subtitle>Math 1210 (Calculus I)</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
