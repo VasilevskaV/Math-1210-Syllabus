@@ -19,13 +19,13 @@
           <li>
             <title>Course Description</title>
             <p>
-              Basic concepts of logic, sets, partial order and other relations, and functions. Basic concepts of mathematics (definitions, proofs, sets, functions, and relations) with a focus on discrete structures: integers, bits, strings, trees, and graphs. Propositional logic, Boolean algebra, and predicate logic. Mathematical induction and recursion. Invariants and algorithmic correctness. Recurrences and asymptotic growth analysis. Fundamentals of counting.
+            Covers limits, continuity, differentiation, applications of differentiation, integration, and applications of integration, including derivatives and integrals of polynomial functions, rational functions, exponential functions, logarithmic functions, trigonometric functions, inverse trigonometric functions, and hyperbolic functions. Is a prerequisite for calculus-based sciences.
             </p>
           </li>
           <li>
             <title>Credits</title>
             <p>
-              3
+              4
             </p>
           </li>
           <li>
@@ -54,15 +54,27 @@
             </p>
           </li>
           <li>
-            <title>Requisite</title>
+            <title>Prerequisite</title>
             <p>
-              MATH 217 or 221
+              One of the following taken withinh the past two years:
+              <p>
+                <ul>
+                  <li>(MATH 1050 or MATH 1055) and MATH 1060, each with a grade of C or better;
+                  </li>
+
+                  <li>MATH 1080, with a grade of C or better;</li>
+
+                  <li>Appropriate placement by math placement test.</li>
+                </ul>
+              </p>
+              
+                  <term>Students who have not satisfied this prerequisite may be administratively withdrawn from this course at any time. If you have problems with your prerequisite, please see the math advisor, Melissa Braithwaite (<email>Melissa.Braithwaite@uvu.edu</email>), immediately.<term>
             </p>
           </li>
           <li>
-            <title>Instructional modality</title>
+            <title>Instructional Modality / Method</title>
             <p>
-              In-person
+              In-person / Lecture / Discussion / Group Work / Presentations / Inquiry
             </p>
           </li>  
         </dl>
