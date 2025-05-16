@@ -14,6 +14,10 @@
     <!-- Include chapters -->
     <section xml:id="sec-course-info">
       <title>Course Information</title>
+      <paragraphs>
+        <title>Meeting Times and Locations</title> MTWR 1:00 - 1:50 a.m., LA 007
+        
+      </paragraphs>
       <p>
         <dl>
           <li>
@@ -67,54 +71,75 @@
                   <li>Appropriate placement by math placement test.</li>
                 </ul>
               </p>
-              
-                  <term>Students who have not satisfied this prerequisite may be administratively withdrawn from this course at any time. If you have problems with your prerequisite, please see the math advisor, Melissa Braithwaite (<email>Melissa.Braithwaite@uvu.edu</email>), immediately.<term>
+              <p>
+                  <term>Students who have not satisfied this prerequisite may be administratively withdrawn from this course at any time. If you have problems with your prerequisite, please see the math advisor, JoAnna Johnson (<email>JOHNSOJO@uvu.edu</email>), immediately.</term>
+              </p>
             </p>
           </li>
           <li>
-            <title>Instructional Modality / Method</title>
+            <title>Instructional Modality and Method</title>
             <p>
-              In-person / Lecture / Discussion / Group Work / Presentations / Inquiry
+              <dl>
+                <li>
+                  <title>Modality</title>
+                  <p>
+                    In-person
+                  </p>
+                </li>
+                <li>
+                  <title>Method</title>
+                  <p>
+                    Lecture / Discussion / Group Work / Presentations / Inquiry
+                  </p>
+                </li>
+              </dl> 
             </p>
           </li>  
         </dl>
       </p>
       <paragraphs>
-        <title>Learning Outcomes</title>
+        <title>Expected Outcomes</title>
         <p>
+          <p> 
+            Upon successful completion of this course, students should be able to: 
+          </p>
           <ol>
             <li>
               <p>
-                Be able to construct proofs by induction to prove properties in a variety of domains (mathematical formulas, recursively-defined structures, loop invariants, correctness of recursive programs).
+                Compute the limits of various types of functions including polynomial, rational, trigonometric, inverse trigonometric, exponential, logarithmic, hyperbolic, and piecewise-defined functions, and combinations of such functions using L'Hopital's Rule when appropriate;
               </p>
             </li>
             <li>
               <p>
-                Apply basic combinatoric techniques to counting problems.
+                Determine if a function is continuous or differentiable at a given point;
               </p>
             </li>
             <li>
               <p>
-                Develop basic skills to construct mathematically rigorous arguments and proofs.
+                Compute the derivatives of polynomial, rational, trigonometric, inverse trigonometric, exponential, logarithmic, hyperbolic, and piecewise-defined functions, and the derivatives of products, quotients, and compositions of such functions using implicit differentiation when necessary;
               </p>
             </li>
             <li>
               <p>
-                Gain exposure to the basics of program analysis (program correctness, recurrences, asymptotic analysis).
+                Solve application problems related to differentiation including rates of changes in the sciences, related rates, linear approximations and differentials, Newton's method, and optimization;
               </p>
             </li>
             <li>
               <p>
-                Demonstrate a familiarity with and an ability to reason about discrete structures/data types (integers, strings, bit strings, sets, relations, functions, graphs, trees).
+                Use information from the first and second derivatives to aid in graphing functions;
+              </p>
+            </li>
+            <li>
+              <p>
+                Use Riemann sums to approximate the area under a curve;
+              </p>
+            </li>
+            <li>
+              <p>
+                Apply the Fundamental Theorem of Calculus and the substitution rule where appropriate to compute definite and indefinite integrals
               </p>
             </li>
           </ol>
-        </p>
-      </paragraphs>
-      <paragraphs>
-        <title>Meeting Times and Locations</title>
-        <p>
-          Both sections have lecture meetings in Van Vleck Hall B102. LEC 001 meets TR 11am<ndash/>12:15pm and LEC 002 meets TR 9:30<ndash/>10:45am. Each student is enrolled in one 50-minute discussion section led by one of the teaching assistants. Your discussion section meets either on Monday or Wednesday. Check your Student Center for your discussion number, time, and location.
         </p>
       </paragraphs>
       <paragraphs>
